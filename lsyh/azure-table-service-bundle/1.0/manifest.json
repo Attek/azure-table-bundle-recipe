@@ -1,6 +1,6 @@
 {
   "bundles": {
-    "Lsyh\\TableServiceBundle\\TableServiceBundle": ["dev"]
+    "Lsyh\\TableServiceBundle\\TableServiceBundle": ["all"]
   },
   "copy-from-recipe": {
     "config/": "%CONFIG_DIR%/"
